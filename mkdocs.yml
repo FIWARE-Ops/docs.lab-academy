@@ -1,0 +1,18 @@
+site_name: Lab Academy
+site_url: https://fiware-lab-academy.readthedocs.org
+repo_url: https://github.com/fiware/lab.academy
+site_description: Fiware Lab Academy
+docs_dir: docs
+site_dir: html
+use_directory_urls: false
+theme: readthedocs
+google_analytics: ["UA-83719923-1", 'fiware-academy.readthedocs.io']
+extra_css: ["https://fiware.org/style/fiware_readthedocs.css", "https://fiware.org/style/fiware_readthedocs_neutral.css"]
+pages:
+  - Home: 'index.md'
+  - 'FIWARE Lab': 
+    - 'Promotional Videos': 'operations/promotional.md' 
+    - 'Core Concepts': 'operations/core-concepts.md'  
+    - 'FIWARE Lab for SMEs': 'operations/fiware-lab.md' 
+    - 'FIWARE Lab for Developers': 'operations/fiware-lab-devs.md'  
+    - 'Ops for Infrastructures': 'operations/operations.md'    
