@@ -1,9 +1,9 @@
-# FIWARE Lab Academy
+# Lab Academy<img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="145" align="left"> 
 
 [![Documentation](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg)](https://fiware-lab-academy.rtfd.io)
 [![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/academy.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
-[<img src="img/logo.png" align="right" width="162">](https://www.fiware.org/)<br/> [![Documentation](https://img.shields.io/readthedocs/fiware-lab-academy.svg)](https://fiware-lab-academy.rtfd.io)
+[![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)<br/>
+[![Documentation](https://img.shields.io/readthedocs/fiware-lab-academy.svg)](https://fiware-lab-academy.rtfd.io)
 [![CI](https://github.com/FIWARE/lab.academy/workflows/CI/badge.svg)](https://github.com/FIWARE/lab.academy/actions?query=workflow%3ACI)
 
 [FIWARE Lab](https://www.fiware.org/developers/fiware-lab/) is the non-commercial sandbox environment of the
