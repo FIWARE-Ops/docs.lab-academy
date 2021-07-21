@@ -1,6 +1,6 @@
 # Lab Academy<img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="145" align="left"> 
 
-[![Operations](https://https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](https://fiware-lab-academy.rtfd.io)
+[![Operations](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](https://fiware-lab-academy.rtfd.io)
 [![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/academy.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)<br/>
 [![Documentation](https://img.shields.io/readthedocs/fiware-lab-academy.svg)](https://fiware-lab-academy.rtfd.io)
