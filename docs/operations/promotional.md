@@ -3,7 +3,7 @@
 <!-- textlint-disable terminology -->
 <!-- textlint-disable no-dead-link -->
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/operations.svg)](https://www.fiware.org/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](https://www.fiware.org/)
 [![filab](https://img.shields.io/badge/tag-filab-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/filab)
 
 FIWARE Ops has produced a series of **promotional** videos, which present and showcase the federation in a clear and

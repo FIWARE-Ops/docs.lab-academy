@@ -2,7 +2,7 @@
 
 <!-- textlint-disable terminology -->
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/operations.svg)](https://www.fiware.org/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](https://www.fiware.org/)
 [![filab](https://img.shields.io/badge/tag-filab-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/filab)
 
 FIWARE Lab provides free virtual rack space for start-ups who are in the process of ramping up new products based around

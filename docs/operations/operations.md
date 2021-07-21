@@ -2,7 +2,7 @@
 
 <!-- textlint-disable terminology -->
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/operations.svg)](https://www.fiware.org/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](https://www.fiware.org/)
 [![filab](https://img.shields.io/badge/tag-filab-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/filab)
 
 This FIWARE Ops training course is aimed at Infrastructure Owners/Operators and FIWARE Ops users who want to offer the

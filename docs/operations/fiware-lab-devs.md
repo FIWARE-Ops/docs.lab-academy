@@ -2,7 +2,7 @@
 
 <!-- textlint-disable terminology -->
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/operations.svg)](https://www.fiware.org/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](https://www.fiware.org/)
 [![filab](https://img.shields.io/badge/tag-filab-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/filab)
 
 The following are a series of presentations that are targeted towards Developers, and they were designed for Developers
