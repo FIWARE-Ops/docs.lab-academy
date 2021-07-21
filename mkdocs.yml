@@ -1,13 +1,15 @@
 site_name: Lab Academy
 site_url: https://fiware-lab-academy.readthedocs.org
 repo_url: https://github.com/fiware/lab.academy
-site_description: Fiware Lab Academy
+site_description: FIWARE Lab Academy
 docs_dir: docs
 site_dir: html
 use_directory_urls: false
 theme: readthedocs
+markdown_extensions:
+  - fenced_code
 google_analytics: ["UA-83719923-1", 'fiware-academy.readthedocs.io']
-extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_neutral.css"]
+extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_operations.css"]
 pages:
   - Home: 'index.md'
   - 'FIWARE Lab': 
