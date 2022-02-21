@@ -1,6 +1,6 @@
 {
 	"name": "fiware-lab-academy",
-	"version": "7.7.1",
+	"version": "8.2.0",
 	"description": "Video tutorials, slide decks and other training materials for developers learning about FIWARE Lab.",
 	"keywords": [
 		"node",
