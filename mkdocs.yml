@@ -10,7 +10,7 @@ markdown_extensions:
   - fenced_code
 google_analytics: ["UA-83719923-1", 'fiware-academy.readthedocs.io']
 extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_operations.css"]
-pages:
+nav:
   - Home: 'index.md'
   - 'FIWARE Lab': 
     - 'Promotional Videos': 'operations/promotional.md' 
