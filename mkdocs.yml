@@ -1,6 +1,6 @@
 site_name: Lab Academy
 site_url: https://fiware-lab-academy.readthedocs.org
-repo_url: https://github.com/fiware/lab.academy
+repo_url: https://github.com/fiware-ops/lab.academy
 site_description: FIWARE Lab Academy
 docs_dir: docs
 site_dir: html
